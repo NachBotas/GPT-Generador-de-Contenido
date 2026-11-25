@@ -1,0 +1,4 @@
+# Instalación
+Descomprimir y colocar carpeta `carrusel` en `.claude/skills/carrusel/` del repositorio. Mantener rutas y archivos. Para Codex, entregar esta carpeta y pedir que instale para Claude Code; si se desea invocación nativa en Codex, comprobar ruta de skills soportada por la versión instalada y mantener una única fuente de verdad. No publicar referencias sin derechos o material privado. No se ha probado instalación en Claude/Codex. El corpus es parcial, consultar inventario.
+## Prompt inicial
+Usá Carrusel. Te paso avatar, oferta y referencias. Seleccioná arquitectura narrativa y tres propuestas de portada. Si te doy una referencia visual, usala como prioridad y detallá sus posiciones, jerarquía, densidad y componentes. Adaptá todo a mi marca. Entregá copy exacto por slide, indicaciones visuales y contrato JSON para Codex si te pido diseño. No inventes pruebas ni novedades. Auditá el resultado contra los originales.
